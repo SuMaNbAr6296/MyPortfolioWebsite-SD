@@ -22,7 +22,7 @@ This website is fully responsive and designed with a clean, modern UI to ensure 
 ## 🛠️ Tech Stack
 
 - HTML5  
-- CSS3  
+- CSS3(BootStrap)  
 - JavaScript  
 - GitHub Pages (for deployment)
 
