@@ -1,13 +1,11 @@
 # 💼 My Web Portfolio
 
-🌐 **Live Preview:** [Visit My Portfolio Website](https://sumanbar721232.github.io/My_Web_Portfolio/)
-
 # Suman Bar - Portfolio Website
 
 Welcome to the personal portfolio website of **Suman Bar**, a Software Engineer and Data Analyst. This static website promotes my professional profile, showcases my projects, and provides a resume details.
 
 ## 🚀 Live Demo
-*(Optional: Add your live demo link here if deployed, e.g., https://sumanbar721232.github.io/portfolio)*
+*[Visit My Portfolio Website](https://sumanbar721232.github.io/My_Web_Portfolio/)*
 
 ## 📖 About The Project
 This is a fully responsive portfolio website built to highlight my skills, education, and experience. It includes the following sections:
